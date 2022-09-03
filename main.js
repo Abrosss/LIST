@@ -14,6 +14,7 @@
       logoContainer.classList.add('jobLogo')
       const logo = document.createElement('img')
       logo.src = job.logo
+      logo.alt = 'logo'
       logoContainer.appendChild(logo)
 
       //add company + labels
@@ -137,6 +138,7 @@ function filter() {
     const clearIconImage = document.createElement('img')
     clearIconImage.dataset.label = e.target.innerText
     clearIconImage.src='/images/icon-remove.svg'
+    clearIconImage.alt = 'logo'
     clearIcon.appendChild(clearIconImage)
    
       labelContainer.append(label, clearIcon)

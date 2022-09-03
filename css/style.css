@@ -166,4 +166,44 @@ header {
   border-radius: 15px;
   text-align: center;
   color: white;
+}
+
+@media screen and (max-width: 500px) {
+  body {
+    width: 100%;
+  }
+  #list {
+    width: 100%;
+    padding: 2rem 1rem;
+    gap: 2.5rem;
+  }
+  #list .job {
+    padding: 3rem 1.5rem;
+    flex-direction: column;
+    position: relative;
+    gap: 1rem;
+  }
+  #list .job .flex {
+    width: 100%;
+  }
+  #list .job .flex .jobLogo {
+    position: absolute;
+    top: -1.5rem;
+    left: 1rem;
+  }
+  #list .job .flex .jobLogo img {
+    width: 60%;
+  }
+  #list .job .flex .jobInfo {
+    margin: 0;
+  }
+  #list .job .flex .jobInfo h2 {
+    font-size: 1.3rem;
+  }
+  #list .job .flex .jobInfo .details {
+    gap: 1.5rem;
+  }
+  #list .job .languages {
+    width: 100%;
+  }
 }/*# sourceMappingURL=style.css.map */
