@@ -90,7 +90,7 @@ display: none;
         }
     }
     h2{
-        font-size: 1.5rem;
+        font-size: 1.4rem;
         &:hover{
             color: $darkcyan;
             cursor: pointer;
@@ -150,12 +150,14 @@ display: none;
 }
 .new {
     padding: .3rem .5rem;
+    font-size: .8rem;
     background-color: $darkcyan;
     border-radius: 15px;
     text-align: center;
     color: white;
 }
 .labels .featured {
+    font-size: .8rem;
     padding: .3rem .5rem;
     background-color: $very-dark-grayish-cyan;
     border-radius: 15px;

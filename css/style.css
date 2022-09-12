@@ -95,7 +95,7 @@ header {
   font-size: 1.2rem;
 }
 .jobInfo h2 {
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 .jobInfo h2:hover {
   color: hsl(180deg, 29%, 50%);
@@ -157,6 +157,7 @@ header {
 
 .new {
   padding: 0.3rem 0.5rem;
+  font-size: 0.8rem;
   background-color: hsl(180deg, 29%, 50%);
   border-radius: 15px;
   text-align: center;
@@ -164,6 +165,7 @@ header {
 }
 
 .labels .featured {
+  font-size: 0.8rem;
   padding: 0.3rem 0.5rem;
   background-color: hsl(180deg, 14%, 20%);
   border-radius: 15px;
