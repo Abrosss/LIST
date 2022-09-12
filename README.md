@@ -10,6 +10,7 @@ Users should be able to:
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/job-listing-javascript-CiWNoNL5Mj)
 - Live Site URL: [LIVE](https://github.com/Abrosss/LIST)
+
 ![](./joblist.png)
 
 ### Built with
