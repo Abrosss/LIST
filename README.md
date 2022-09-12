@@ -8,7 +8,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/job-listing-javascript-CiWNoNL5Mj]
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/job-listing-javascript-CiWNoNL5Mj)
 - Live Site URL: [https://github.com/Abrosss/LIST]
 
 ### Built with
