@@ -6,6 +6,8 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 - Filter job listings based on the categories
 
+![](./joblist.png)
+
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/job-listing-javascript-CiWNoNL5Mj)
