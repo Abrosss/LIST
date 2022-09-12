@@ -15,7 +15,7 @@ header {
 }
 
 #list {
-  padding: 4rem 8rem;
+  padding: 5rem 8rem;
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
@@ -64,7 +64,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 2rem 2rem;
+  padding: 1.5rem 3rem;
   background: white;
   border-radius: 8px;
   box-shadow: 0 14px 28px rgb(199, 224, 224), 0 20px 10px hsl(180deg, 52%, 96%);
