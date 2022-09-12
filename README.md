@@ -9,7 +9,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://www.frontendmentor.io/solutions/job-listing-javascript-CiWNoNL5Mj)
-- Live Site URL: [https://github.com/Abrosss/LIST]
+- Live Site URL: [LIVE](https://github.com/Abrosss/LIST)
 
 ### Built with
 
@@ -23,6 +23,6 @@ Optimize the javascript code
 
 ## Author
 
-- Frontend Mentor - [https://www.frontendmentor.io/profile/Abrosss](a)
-- Twitter - [@ronessu]
+- Frontend Mentor - [Abrosss](https://www.frontendmentor.io/profile/Abrosss)
+- [Twitter](https://twitter.com/ronessu)
 
