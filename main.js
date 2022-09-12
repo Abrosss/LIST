@@ -103,6 +103,7 @@ function addJobHtml(logo, position, positionDetails, companyNameContainer, langu
   const containerLeft = document.createElement('div')
   const jobInfoContainer = document.createElement('div')
   container.classList.add('job')
+  container.setAttribute("role", "main");
   if(featured) container.classList.add('featured')
   containerLeft.classList.add('flex')
   jobInfoContainer.classList.add('jobInfo')
