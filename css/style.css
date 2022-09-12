@@ -64,7 +64,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1.5rem 3rem;
+  padding: 2rem 3rem;
   background: white;
   border-radius: 8px;
   box-shadow: 0 14px 28px rgb(199, 224, 224), 0 20px 10px hsl(180deg, 52%, 96%);
@@ -164,7 +164,7 @@ header {
 }
 
 .labels .featured {
-  padding: 0.4rem 0.5rem;
+  padding: 0.3rem 0.5rem;
   background-color: hsl(180deg, 14%, 20%);
   border-radius: 15px;
   text-align: center;
