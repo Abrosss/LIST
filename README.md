@@ -23,6 +23,6 @@ Optimize the javascript code
 
 ## Author
 
-- Frontend Mentor - [@Abrosss]
+- Frontend Mentor - [https://www.frontendmentor.io/profile/Abrosss]
 - Twitter - [@ronessu]
 
