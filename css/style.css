@@ -183,7 +183,7 @@ header {
     gap: 2.5rem;
   }
   #list .job {
-    padding: 3rem 1.5rem;
+    padding: 2.5rem 1.5rem;
     flex-direction: column;
     position: relative;
     gap: 1rem;
